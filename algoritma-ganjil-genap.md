@@ -1,4 +1,6 @@
-# Menentukan bilangan ganjil atau genap
+# Algoritma untuk menentukan bilangan ganjil atau genap
+> ### Tujuan 
+> menentukan apakah suatu angka termasuk bilangan ganjil atau genap
 
 1. Mulai
 2. Tentukan angka berapa yang ingin dicek
