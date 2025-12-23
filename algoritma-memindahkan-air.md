@@ -11,10 +11,10 @@
 4. apabila kotor, cuci terlebih dahulu
 5. keringkan dengan lap/kain bersih
 6. apabila bersih, mulai untuk menuang
-3. tuang isi gelas a (isi teh) ke gelas c
-4. tuang isi gelas b (isi kopi) ke gelas a
-5. tuang isi gelas c (isi teh) ke gelas b
-6. selesai
+7. tuang isi gelas a (isi teh) ke gelas c
+8. tuang isi gelas b (isi kopi) ke gelas a
+9. tuang isi gelas c (isi teh) ke gelas b
+10. selesai
 
 ## kondisi akhir
 - gelas A berisi kopi
