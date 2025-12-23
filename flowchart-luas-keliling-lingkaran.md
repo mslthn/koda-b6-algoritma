@@ -1,9 +1,6 @@
 ```mermaid
 flowchart TD
     mulai@{ shape: circ, label: "Mulai"}
-    dec@{ shape: rect, label: "L= phi x r x r
-    K = 2 x phi x r
-    "}
     input@{ shape: lean-r, label: "Input: r"}
     if@{shape: diamond, label: "r%7 == 0"}
     inP7@{ shape: lean-r, label: "phi = 22/7"}
