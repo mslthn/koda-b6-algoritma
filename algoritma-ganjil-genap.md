@@ -1,6 +1,5 @@
 # Menentukan bilangan ganjil atau genap
 
-
 1. mulai
 2. tentukan angka berapa yang ingin dicek
 3. jika angka tersebut ketika dibagi 2 menghasilkan sisa 0
