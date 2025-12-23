@@ -6,9 +6,8 @@ flowchart TD
     ganjil@{ shape: lean-r, label: "output: x bilangan ganjil"}
     genap@{ shape: lean-r, label: "output: x bilangan genap"}
     selesai@{ shape: dbl-circ, label: "Selesai"}
-    proses@{ shape: rect, label: "hitung modulus"}
-
-mulai-->input-->proses-->ifG
+    
+mulai-->input-->ifG
 ifG-->|True| genap-->selesai
 ifG-->|False| ganjil-->selesai
 ```
