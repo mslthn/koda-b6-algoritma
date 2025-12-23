@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-    mulai@{ shape: stadium, label: "Mulai"}
+    mulai@{ shape: circ, label: "Mulai"}
     input@{ shape: lean-r, label: "Input x"}
     proses@{ shape: rect, label: "hitung modulus"}
     ifG@{ shape: diamond, label: "x%2==0"}
